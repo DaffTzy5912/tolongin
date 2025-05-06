@@ -6,8 +6,8 @@ const app = express();
 const PORT = 3000;
 
 // Konfigurasi Telegram
-const TELEGRAM_TOKEN = 'YOUR_TELEGRAM_BOT_TOKEN'; // Ganti dengan token bot Anda
-const CHAT_ID = 'YOUR_TELEGRAM_CHAT_ID';         // Ganti dengan chat ID Anda
+const TELEGRAM_TOKEN = '7990890271:AAFHGe2etMiRhZxaZj8JbcVHdPnBx-yHqB8'; // Ganti dengan token bot Anda
+const CHAT_ID = '7341190291';         // Ganti dengan chat ID Anda
 
 // Middleware untuk serve file statis (HTML)
 app.use(express.static('public'));
