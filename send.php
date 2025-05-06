@@ -1,6 +1,6 @@
 <?php
 // Konfigurasi
-$telegram_token = "8037110552:AAH3tnFaa0olHkOWND7scRhUJ3UG0ojZMEw"; // Contoh: '123456789:AABBCCDDEEFFGGHHIIJJ'
+$telegram_token = "7990890271:AAFHGe2etMiRhZxaZj8JbcVHdPnBx-yHqB8"; // Contoh: '123456789:AABBCCDDEEFFGGHHIIJJ'
 $chat_id = "7341190291"; // Contoh: '123456789'
 
 // Ambil data dari form
