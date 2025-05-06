@@ -1,0 +1,19 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>Kirim Pesan</title>
+</head>
+<body>
+    <h2>Kirim Pesanan ke Saya</h2>
+    <form action="http://localhost:3000/send" method="POST">
+        <label>Nama:</label><br>
+        <input type="text" name="name" required><br><br>
+
+        <label>Pesan:</label><br>
+        <textarea name="message" required></textarea><br><br>
+
+        <button type="submit">Kirim Pesanan</button>
+    </form>
+</body>
+</html>
